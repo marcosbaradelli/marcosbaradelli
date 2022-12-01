@@ -2,7 +2,7 @@
 
 Dev Student @MaxScalla.
 
-[![Twitter Badge](https://img.shields.io/badge/-@obaradelli-7600bc?style=flat-square&labelColor=7600bc&logo=twitter&logoColor=white&link=https://twitter.com/obaradelli)](https://twitter.com/obaradelli) 
+[![Twitter Badge](https://img.shields.io/badge/-@obaradelli-4c00b0?style=flat-square&labelColor=7600bc&logo=twitter&logoColor=white&link=https://twitter.com/obaradelli)](https://twitter.com/obaradelli) 
 [![Gmail Badge](https://img.shields.io/badge/-marcostognetti123@gmail.com-7600bc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcostognetti123@gmail.com)](mailto:marcostognetti123@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@obaradelli_-7600bc?style=flat-square&labelColor=7600bc&logo=instagram&logoColor=white&link=https://instagram.com/obaradelli)](https://instagram.com/obaradelli) 
 
