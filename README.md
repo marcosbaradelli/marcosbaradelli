@@ -2,7 +2,7 @@
 
 Dev Student @MaxScalla.
 
-[![Twitter Badge](https://img.shields.io/badge/-@obaradelli-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/obaradelli) 
+[![Twitter Badge](https://img.shields.io/badge/-@obaradelli-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/obaradelli)](https://twitter.com/obaradelli) 
 [![Gmail Badge](https://img.shields.io/badge/-marcostognetti123@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcostognetti123@gmail.com)](mailto:marcostognetti123@gmail.com)
 
 Student of the best web & mobile development technologies.
