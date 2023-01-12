@@ -1,4 +1,4 @@
-# Marcos Baradelli
+# Marcos Baradelli 👨🏻‍💻
 
 Dev Student @MaxScalla.
 
