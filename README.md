@@ -10,4 +10,4 @@ Student of the best web development technologies.
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
-[![wakatime](https://wakatime.com/badge/user/6f8814ac-fbdd-4e96-89a4-737488a0811d.svg)](https://wakatime.com/@6f8814ac-fbdd-4e96-89a4-737488a0811d)
+[![wakatime](https://wakatime.com/badge/user/6f8814ac-fbdd-4e96-89a4-737488a0811d/project/f350ad2b-a975-436e-8f98-083b504d6a4d.svg)](https://wakatime.com/badge/user/6f8814ac-fbdd-4e96-89a4-737488a0811d/project/f350ad2b-a975-436e-8f98-083b504d6a4d)
