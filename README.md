@@ -1,6 +1,6 @@
 # Marcos Baradelli 👨🏻‍💻
 
-Developer Front-end @MaxScalla.
+Developer Full Stack @MaxScalla.
 
 [![Twitter Badge](https://img.shields.io/badge/-@obaradelli-4c00b0?style=flat-square&labelColor=4c00b0&logo=twitter&logoColor=white&link=https://twitter.com/obaradelli)](https://twitter.com/obaradelli) 
 [![Gmail Badge](https://img.shields.io/badge/-marcostognetti123@gmail.com-4c00b0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcostognetti123@gmail.com)](mailto:marcostognetti123@gmail.com)
